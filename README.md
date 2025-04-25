@@ -22,7 +22,7 @@ A modern web application for managing EDI (Electronic Data Interchange) services
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/UNIS-EDI-SelfService.git
+git clone https://github.com/oxymavis/UNIS-EDI-SelfService.git
 cd UNIS-EDI-SelfService
 ```
 
